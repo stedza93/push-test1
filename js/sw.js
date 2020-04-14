@@ -1,1 +1,1 @@
-console.log("SSSSS")
+importScripts("https://cdn.hoood.info/sdk/osw.js")
